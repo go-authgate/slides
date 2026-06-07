@@ -1,4 +1,4 @@
-# AuthGate × DevOps Day Slides
+# AuthGate Slides
 
 Presentation slides for **AuthGate** — introducing how a lightweight **Identity Gateway** can unify OAuth / OIDC authentication and JWT issuance.
 
